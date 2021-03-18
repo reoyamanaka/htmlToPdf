@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 60%;
+    background: lightgrey;
+    margin: 3rem auto;
+    padding: 2rem;
+    border-radius: 15px;
+}
+.container h1 {
+    margin: 2rem auto;
+}
+.container h3 {
+    margin: 1rem auto;
+}
+
+.container p {
+    margin: 1 auto;
+}
+
