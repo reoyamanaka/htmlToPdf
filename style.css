@@ -20,4 +20,13 @@
 .container p {
     margin: 1 auto;
 }
+.container ul {
+    padding-left: 1rem;
+
+}
+.container ul li {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+}
 
